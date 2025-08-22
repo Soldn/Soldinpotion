@@ -1,0 +1,13 @@
+name: Soldinoponiton
+main: com.soldi.soldinoponiton.Soldinoponiton
+version: 1.0.0
+api-version: 1.16
+author: Soldi_n .jra
+commands:
+  soldinoponiton:
+    description: Soldinoponiton commands
+    usage: /<command> reload
+    aliases: [soldino, sdpn]
+permissions:
+  soldinoponiton.reload:
+    default: op
