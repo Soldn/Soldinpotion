@@ -1,0 +1,6 @@
+name: Soldinoponiton
+main: com.soldi.soldinoponiton.Soldinoponiton
+version: 1.1.0
+api-version: 1.16
+author: Soldi_n .jra (modified)
+commands: {}
